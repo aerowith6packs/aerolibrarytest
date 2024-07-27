@@ -1,0 +1,25 @@
+C:\Users\ak pogi\source\repos\Transparent Form\Transparent Form\bin\Debug\net8.0-windows\Transparent Form.exe
+C:\Users\ak pogi\source\repos\Transparent Form\Transparent Form\bin\Debug\net8.0-windows\Transparent Form.deps.json
+C:\Users\ak pogi\source\repos\Transparent Form\Transparent Form\bin\Debug\net8.0-windows\Transparent Form.runtimeconfig.json
+C:\Users\ak pogi\source\repos\Transparent Form\Transparent Form\bin\Debug\net8.0-windows\Transparent Form.dll
+C:\Users\ak pogi\source\repos\Transparent Form\Transparent Form\bin\Debug\net8.0-windows\Transparent Form.pdb
+C:\Users\ak pogi\source\repos\Transparent Form\Transparent Form\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\ak pogi\source\repos\Transparent Form\Transparent Form\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\ak pogi\source\repos\Transparent Form\Transparent Form\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\ak pogi\source\repos\Transparent Form\Transparent Form\obj\Debug\net8.0-windows\Transparent Form.csproj.AssemblyReference.cache
+C:\Users\ak pogi\source\repos\Transparent Form\Transparent Form\obj\Debug\net8.0-windows\Transparent_Form.Properties.Resources.resources
+C:\Users\ak pogi\source\repos\Transparent Form\Transparent Form\obj\Debug\net8.0-windows\Transparent_Form.RegisterForm.resources
+C:\Users\ak pogi\source\repos\Transparent Form\Transparent Form\obj\Debug\net8.0-windows\Transparent Form.csproj.GenerateResource.cache
+C:\Users\ak pogi\source\repos\Transparent Form\Transparent Form\obj\Debug\net8.0-windows\Transparent Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ak pogi\source\repos\Transparent Form\Transparent Form\obj\Debug\net8.0-windows\Transparent Form.AssemblyInfoInputs.cache
+C:\Users\ak pogi\source\repos\Transparent Form\Transparent Form\obj\Debug\net8.0-windows\Transparent Form.AssemblyInfo.cs
+C:\Users\ak pogi\source\repos\Transparent Form\Transparent Form\obj\Debug\net8.0-windows\Transparent Form.csproj.CoreCompileInputs.cache
+C:\Users\ak pogi\source\repos\Transparent Form\Transparent Form\obj\Debug\net8.0-windows\Transpar.4325504B.Up2Date
+C:\Users\ak pogi\source\repos\Transparent Form\Transparent Form\obj\Debug\net8.0-windows\Transparent Form.dll
+C:\Users\ak pogi\source\repos\Transparent Form\Transparent Form\obj\Debug\net8.0-windows\refint\Transparent Form.dll
+C:\Users\ak pogi\source\repos\Transparent Form\Transparent Form\obj\Debug\net8.0-windows\Transparent Form.pdb
+C:\Users\ak pogi\source\repos\Transparent Form\Transparent Form\obj\Debug\net8.0-windows\Transparent Form.genruntimeconfig.cache
+C:\Users\ak pogi\source\repos\Transparent Form\Transparent Form\obj\Debug\net8.0-windows\ref\Transparent Form.dll
+C:\Users\ak pogi\source\repos\Transparent Form\Transparent Form\obj\Debug\net8.0-windows\Transparent_Form.MainForm.resources
+C:\Users\ak pogi\source\repos\Transparent Form\Transparent Form\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\ak pogi\source\repos\Transparent Form\Transparent Form\bin\Debug\net8.0-windows\MySql.Data.xml
